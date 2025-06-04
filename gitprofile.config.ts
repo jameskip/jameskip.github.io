@@ -24,6 +24,9 @@ const CONFIG = {
             'jameskip',
             'qa-interview-jameskip',
             'material-ui-front-end-starter-pack',
+            'auto-liker-extension',
+            'whats-the-wifi'
+
           ], // These projects will not be displayed. example: ['my-project1', 'my-project2']
         },
       },
